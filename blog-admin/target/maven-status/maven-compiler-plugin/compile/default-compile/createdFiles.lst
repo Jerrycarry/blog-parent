@@ -1,0 +1,16 @@
+com\Jerry\blog\admin\controller\AdminController.class
+com\Jerry\blog\admin\model\params\PageParam.class
+com\Jerry\blog\admin\Pojo\Admin.class
+com\Jerry\blog\admin\Service\AuthService.class
+com\Jerry\blog\admin\Service\MySimpleGrantedAuthority.class
+com\Jerry\blog\admin\Service\PermissionService.class
+com\Jerry\blog\admin\Service\AdminService.class
+com\Jerry\blog\admin\Service\SecurityUserService.class
+com\Jerry\blog\admin\AdminApp.class
+com\Jerry\blog\admin\mapper\AdminMapper.class
+com\Jerry\blog\admin\config\SecurityConfig.class
+com\Jerry\blog\admin\mapper\PermissionMapper.class
+com\Jerry\blog\admin\vo\Result.class
+com\Jerry\blog\admin\config\MybatisPlusConfig.class
+com\Jerry\blog\admin\vo\PageResult.class
+com\Jerry\blog\admin\Pojo\Permission.class
